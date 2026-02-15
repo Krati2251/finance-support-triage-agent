@@ -1,0 +1,8 @@
+streamlit
+streamlit-autorefresh
+python-dotenv
+langchain
+langchain-groq
+langchain-core
+pydantic
+requests
